@@ -13,6 +13,11 @@ body {
   border: 5px solid #c0c0c0;
 }
 
+h1 {
+  margin: 0;
+  padding: 20px 0;
+}
+
 .top {
   margin: 20px 0;
   padding: 0;
